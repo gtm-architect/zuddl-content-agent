@@ -1,0 +1,16 @@
+Review article.
+
+Check:
+
+- Repetition
+- AI tone
+- Keyword stuffing
+- Readability
+
+Provide:
+
+QA Score
+SEO Score
+Publishability Score
+
+Return improved article.
